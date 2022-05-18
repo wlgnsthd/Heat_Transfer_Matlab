@@ -105,6 +105,6 @@ colorbar
 x = ['Elapsed Real Time = ',num2str(k*dt),' second(s)'];
 disp(x)
 
-%% Question 5
+%% Question 5 end
 x = ['CPU Run Time = ', num2str(toc),' second(s)'];
 disp(x)
