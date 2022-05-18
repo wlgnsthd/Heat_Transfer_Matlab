@@ -1,7 +1,7 @@
 %% Aerospace Engineering Song Jihoon
 
 %{
-2D Steady State Heat Conduction ( i = space, k = time ) 
+2D Unsteady State Heat Conduction ( i = space, k = time ) 
 Assumption : Fixed boundaries temperature, Interior node, No heat
 generation, n = m, T_0(m,n) = 100 (Celsius)
 
