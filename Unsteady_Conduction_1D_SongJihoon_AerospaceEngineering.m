@@ -1,4 +1,4 @@
-%% Aerospace Engineering 20171648 Song Jihoon
+%% Aerospace Engineering Song Jihoon
 
 %{
 1D Unsteady State Heat Conduction ( i = space, k = time ) 
