@@ -1,4 +1,4 @@
-%% Aerospace Engineering 20171648 Song Jihoon
+%% Aerospace Engineering Song Jihoon
 
 %{
 2D Steady State Heat Conduction ( i = space, k = time ) 
