@@ -1,4 +1,4 @@
-# Heat_Transfer_Matlab!
+# Heat_Transfer_Matlab
 
 1D
 
